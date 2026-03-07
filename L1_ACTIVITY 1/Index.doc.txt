@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Structure of html</title>
+    </head>
+    <body>
+        My name is Aaravkrishna Karthikeyan.<br>
+        I am a student of grade 6
+    </body>
+</html>
